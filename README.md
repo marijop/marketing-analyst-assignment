@@ -9,7 +9,7 @@ A unified, end-to-end analytics solution that ingests advertising data from Face
 ## Author
 
 **Maria Jose Placido**
-Tableau Public profile: [public.tableau.com/app/profile/maria.jose.placido](https://public.tableau.com/app/profile/maria.jose.placido)
+Tableau Public profile: https://public.tableau.com/app/profile/maria.jose.placido/viz/marketing-analyst-assignment/MarketingDashboard [public.tableau.com/app/profile/maria.jose.placido](https://public.tableau.com/app/profile/maria.jose.placido)
 
 ---
 
