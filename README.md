@@ -20,7 +20,7 @@ Marketing Dashboard Solution: https://public.tableau.com/app/profile/maria.jose.
 | Item | Link |
 |---|---|
 | Live dashboard (Tableau Public) | [Cross-Channel Marketing Performance — January 2024](https://public.tableau.com/app/profile/maria.jose.placido/viz/marketing-analyst-assignment/MarketingDashboard) |
-| Video walkthrough | `[Marketing Analyst - Technical Assignment - Google Drive ]` |
+| Video walkthrough | Marketing Analyst - Technical Assignment - Google Drive  |
 | Source code repository | This repository |
 
 ---
